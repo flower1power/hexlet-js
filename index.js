@@ -1,3 +1,3 @@
-import { myFunction } from "./src";
+import { myFunction } from './src';
 
-myFunction()
+myFunction();
